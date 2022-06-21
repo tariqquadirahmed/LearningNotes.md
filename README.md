@@ -10,10 +10,15 @@ status - tells whats status is
 ls will list files available
 
 add - track changes
+
 commit - save files in git
+
 push - upload git commits to github
+
 pull - download changes from remote to local
+
 clear - to clear text
+
 -m is for a message and discription
 
 
